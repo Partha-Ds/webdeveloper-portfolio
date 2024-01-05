@@ -97,7 +97,7 @@ nav a {
     margin-bottom: 20px;
 }
 
-.banner-dis {
+.banner-des {
     text-align: justify;
     margin-top: 0;
 }
@@ -120,4 +120,7 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-des{
+    padding: 30px 150px;
 }
